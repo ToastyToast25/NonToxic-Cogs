@@ -1,0 +1,14 @@
+{
+    "author": [
+        "ToastyToast007"
+    ],
+    "install_msg": "Thank you for downloading this cog.\n\nWARNING: Some cooldowns are meant to be in place, meaning that they should not be removed. Any contributors to this cog are not at fault if it is used improperly, and is instead at the fault of the person running the command. By installing this cog, you agree to these terms. If you do not agree, uninstall this cog right now.",
+    "name": "remove_temporary_member_role",
+    "short": "Removes 'Temporary Member' role when 'Member' role is assigned",
+    "description": "A Red Discord Bot cog that removes the 'Temporary Member' role from a user when the 'Member' role is assigned.",
+    "tags": [
+        "utility",
+        "roles"
+    ],
+    "hidden": false
+}
